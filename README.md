@@ -1,12 +1,3 @@
-Perfeito — aqui vai uma **descrição profissional do Pulse TI PRO**, pronta pra usar em:
-
-* instalador
-* site
-* GitHub
-* apresentação
-* EXE (version info)
-
-
 # 🚀 💼 Pulse TI PRO
 
 ## 🧠 Descrição profissional
